@@ -1,4 +1,4 @@
-#QUICK SORT
+# QUICK SORT
 
 ![Screenshot from 2024-08-01 10-40-25](https://github.com/user-attachments/assets/e2bdfb14-6e7c-407c-a57d-9a2a35c83c80)
 
